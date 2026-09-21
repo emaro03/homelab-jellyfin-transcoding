@@ -1,6 +1,6 @@
 # Jellyfin + Intel Quick Sync (QSV) Hardware Transcoding in an LXC
 
-> Part of [homelab-hub](https://github.com/YOUR_USERNAME/homelab-hub). Media server running in a Proxmox LXC with the host's integrated GPU passed through for hardware-accelerated transcoding.
+> Part of [homelab-hub](https://github.com/emaro03/homelab-hub). Media server running in a Proxmox LXC with the host's integrated GPU passed through for hardware-accelerated transcoding.
 
 ## Why this exists
 
